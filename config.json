@@ -1,0 +1,17 @@
+{
+    "development": {
+        "username": "userEmpPocket",
+        "password": "Sunter123",
+        "database": "emp_pocket",
+        "host": "localhost",
+        "port": 27017,
+        "directoryPath":""
+    },
+    "production": {
+        "username": "userEmpPocket",
+        "password": "Sunter123",
+        "database": "emp_pocket",
+        "host": "localhost",
+        "port": 27017
+    }
+}

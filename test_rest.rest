@@ -1,0 +1,7 @@
+post http://localhost:3030/api/profile/upload/ddsa
+Content-Type: application/json
+
+{
+    "userName": "erwin.ant",
+    "fullName":"Erwin Antonius"
+}
